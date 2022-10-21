@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="https://" target="_blank">
-      <img src="../Documentacion/Sprint1/Logo_BS.svg" alt="BarberShop" height="72">
+      <img src="Documentacion/Sprint1/Logo_BS.svg" alt="BarberShop" height="72">
     </a>
   </p>
   <p align="center">
@@ -11,7 +11,7 @@
 # BarberShop_MERN
 This is a very simple e-commerce website built under the MERN stack.
 
-### Propósito:
+### Purpose:
 Created for educational purposes.  This test is based on MERN.
 Stacks, also called data ecosystems, are the sets of technology services used to build and run a single application.
 This includes a set of frameworks/technologies used for web development of applications consisting of:
@@ -20,20 +20,20 @@ This includes a set of frameworks/technologies used for web development of appli
     React.js and 
     Node.js   
 
-## Enfoque General:
+## General Approach:
 The website displays barber products. Users can add and remove products to/from their cart while specifying the quantity of each item. They can then enter their address and choose payment processing.
 
-* **Mostrar información** (~3K registros)
+* **Display information** ()
     1. Users
     1. Employees
     1. Products
     
-* **Tecnologías**
+* **Technologies**
     1. HTML5
-    2. Express
-    3. MongoDB
+    2. MongoDB
+    3. Express
     4. React
-    5. 
+    5. Node js
 
 -------------------------------------------------------------------
 
@@ -53,14 +53,14 @@ Este incluye un conjunto de marcos/tecnologías utilizados para el desarrollo we
 
 El sitio web muestra productos de barberia. Los usuarios pueden agregar y eliminar productos a / desde su carrito al tiempo que especifican la cantidad de cada artículo. Luego pueden ingresar su dirección y elegir el procesamiento del pago.
 
-* **Mostrar información** (~3K registros)
+* **Mostrar información** ()
     1. Usuarios
     1. Empleados
     1. Productos
     
 * **Tecnologías**
     1. HTML5
-    2. Express
-    3. MongoDB
+    2. MongoDB
+    3. Express
     4. React
-    5. 
+    5. Node js
