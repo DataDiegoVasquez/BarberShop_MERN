@@ -10,6 +10,8 @@ Creado para fines educativos.  Esta prueba está basada en MERN.
     1. 
     
 * **Tecnologías**
-    1. API de TVMaze.com
-    1. Python3
-    1. SQLite
+    1. HTML5
+    2. Express
+    3. MongoDB
+    4. React
+    5. 
